@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Aroma Guía</title>
+<meta name="description" content="Catálogo de consulta de aceites esenciales por síntoma o condición.">
+<meta name="theme-color" content="#5b7a63">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>Aroma Guía</h1>
+  <p class="subtitle">Aceites esenciales por síntoma o condición</p>
+</header>
+
+<main>
+  <div class="search-wrap">
+    <input id="search" type="search" inputmode="search" autocomplete="off"
+           placeholder="Busca un síntoma o un aceite… (ej: dolor de cabeza, Lavanda)">
+    <button id="clear" class="clear-btn" hidden aria-label="Limpiar búsqueda">×</button>
+  </div>
+
+  <p id="status" class="status"></p>
+
+  <div id="results" class="results"></div>
+
+  <template id="tpl-condicion">
+    <article class="card card-condicion">
+      <h2 class="card-title"></h2>
+      <p class="label">Productos</p>
+      <p class="productos"></p>
+      <p class="label">Aplicación</p>
+      <p class="aplicacion"></p>
+      <p class="advertencia" hidden></p>
+    </article>
+  </template>
+
+  <template id="tpl-aceite">
+    <article class="card card-aceite">
+      <h2 class="card-title"></h2>
+      <p class="label">Usos y asociaciones</p>
+      <p class="usos"></p>
+    </article>
+  </template>
+
+  <div id="empty" class="empty" hidden>
+    <p>Sin resultados. Prueba con otra palabra (por ejemplo, el nombre del síntoma en una sola palabra, o el nombre del aceite).</p>
+  </div>
+
+  <div id="landing" class="landing">
+    <p>Escribe un síntoma, una condición o el nombre de un aceite.</p>
+    <p class="muted">112 aceites y mezclas · 200 fichas por síntomas y condiciones</p>
+  </div>
+</main>
+
+<footer class="disclaimer">
+  <p>Uso informativo, no reemplaza atención médica. Ante síntomas de urgencia, busca atención médica inmediata.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

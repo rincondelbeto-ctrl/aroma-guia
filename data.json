@@ -1,0 +1,2454 @@
+{
+  "aceites": [
+    {
+      "nombre": "ADAPTIV",
+      "usos": "Equilibrio, estado de calma, centrado, concentración, elevación del estado de ánimo, felicidad, positividad, relajación y tranquilidad."
+    },
+    {
+      "nombre": "ALIGN",
+      "usos": "Dispersión, sentirse abrumado, alineado, resuelto, tranquilo, centrado, aceptado y digno; meditación, oración, apatía, baja energía, ira, rabia, desequilibrio, estado de ánimo y perfume."
+    },
+    {
+      "nombre": "AMAVI",
+      "usos": "Sentirse desalentado, enfurecido, agitado, irritado y calmado. También, sentirse bien fundado, relajado, con corazón, mente y cuerpo enfocados; claridad mental, meditación, tranquilidad, colonia y perfume de mujer."
+    },
+    {
+      "nombre": "ANCHOR",
+      "usos": "Meditación, oración, enfoque, anclaje, valentía, autenticidad, calma compuesta, descanso, arraigo a la tierra, decir la verdad, temor y desconexión."
+    },
+    {
+      "nombre": "Arborvitae",
+      "usos": "Alergias, promoción de una función saludable de las células, soporte al sistema inmunológico y limpieza y purificación."
+    },
+    {
+      "nombre": "ARISE",
+      "usos": "Conexión con el Ser y Poder Superior, intencionalidad, orientación a la acción, manifestación, elevación, valentía y empoderamiento. También, sentirse abrumado, claridad mental, falta de claridad y enfoque, sentirse desafiado, depresión, cambios de humor y perfume."
+    },
+    {
+      "nombre": "AromaTouch",
+      "usos": "Artritis, dolor de espalda, tejido conectivo, dolor de cabeza, presión arterial alta, soporte de ligamentos y síndrome de piernas inquietas."
+    },
+    {
+      "nombre": "Balance",
+      "usos": "Ira, ansiedad, convulsiones, miedo, dolor, cambios de humor, trastornos neurológicos, rabia y trauma."
+    },
+    {
+      "nombre": "Albahaca",
+      "usos": "Calambres abdominales, amenorrea, picadura de abeja, bursitis, fatiga crónica, dolor de oído, picaduras de insectos, migraña, espasmos musculares, distrofia muscular, síndrome de piernas inquietas, tendinitis, rotura de ligamentos, músculos desgarrados y vértigo."
+    },
+    {
+      "nombre": "Beautiful",
+      "usos": "Energizante, elevación del estado de ánimo y del medio ambiente, calma, apoyo, corazón centrado, mente y cuerpo, meditación empoderada, tranquilidad, ser fiel a ti mismo y perfume."
+    },
+    {
+      "nombre": "Bergamota",
+      "usos": "Acné, apetito, cólicos, problemas de hongos, insomnio, irritabilidad, tristeza, estrés y psoriasis."
+    },
+    {
+      "nombre": "Birch",
+      "usos": "Artritis, espolones óseos, calambres, lesiones del tejido conectivo, fiebre, gota, piedras en la vesícula biliar, reumatismo y úlceras."
+    },
+    {
+      "nombre": "Pimienta negra",
+      "usos": "Perfil antioxidante, mejora de la circulación y ayuda digestiva. Además, freno a la necesidad de fumar y mejora del humor."
+    },
+    {
+      "nombre": "Black Spruce",
+      "usos": "Equilibrio, calma, enfriamiento, respiración fácil, armonía, reducción y manejo del estrés, relajación y efecto calmante de la piel."
+    },
+    {
+      "nombre": "Blue Tansy",
+      "usos": "Alergias, picazón, erupciones cutáneas, acné, eczema, quemaduras de sol, asma, infecciones por hongos, dolores de cabeza, varicela, gripe, adicciones, efecto repelente y problemas de tiroides."
+    },
+    {
+      "nombre": "Brave",
+      "usos": "Desaliento, falta de sentido, cansancio, falta de determinación, convicción, miedo, falta de confianza, motivación, confusión, sentirse abrumado, malestar digestivo, nerviosismo, agitación y dolores."
+    },
+    {
+      "nombre": "Breathe o Easy Air",
+      "usos": "Asma, alergias, bronquitis, congestión, tos, gripe, neumonía, sinusitis y problemas de sueño."
+    },
+    {
+      "nombre": "Calmer",
+      "usos": "Inquietud, problemas de sueño, estrés, ansiedad, molestia, irritabilidad, sobresalto, tensión, sentirse «enrollado», temperamento, dolores musculares, dolores de crecimiento, enojo, agitación, irritabilidad, rutina de baño y hora de dormir."
+    },
+    {
+      "nombre": "Cardamomo",
+      "usos": "Soporte al sistema respiratorio, ayuda para respirar, mareo, elevación del estado de ánimo e indigestión."
+    },
+    {
+      "nombre": "Cassia",
+      "usos": "Equilibrio de azúcar en la sangre, furúnculo, aumento del metabolismo, deseo sexual, fiebre tifoidea y retención de agua."
+    },
+    {
+      "nombre": "Cedro",
+      "usos": "Relajar la mente y el cuerpo, soportar una función respiratoria saludable, promover piel clara y sana, y chinches."
+    },
+    {
+      "nombre": "Celery Seed",
+      "usos": "Calma del cuerpo y la mente, limpieza, enfriamiento, problemas de digestión, eliminación de toxinas, malestar articular, dolores musculares y problemas de sueño."
+    },
+    {
+      "nombre": "Cheer",
+      "usos": "Ansiedad, azúcar en la sangre, salud celular, desconexión, inflamación y síndrome premenstrual."
+    },
+    {
+      "nombre": "Cilantro",
+      "usos": "Antioxidante, utilizado en la cocina, tonificante, ayuda digestiva, poderoso desintoxicante y calmante para la piel."
+    },
+    {
+      "nombre": "Canela",
+      "usos": "Cavidades, diverticulitis, halitosis, hipoglucemia, moho, neumonía y candidiasis."
+    },
+    {
+      "nombre": "Citronella",
+      "usos": "Calma de las emociones, limpieza, felicidad, repelencia de plagas, sentimientos positivos, calma de la piel y cuero cabelludo, reducción del estrés y efecto edificante."
+    },
+    {
+      "nombre": "Citrus Bliss",
+      "usos": "Refrescar el aire, limpiador antiséptico, ansiedad, depresión, trastornos de la alimentación, impulso inmunológico, estrés y perfume."
+    },
+    {
+      "nombre": "ClaryCalm o Solace",
+      "usos": "Problemas de azúcar en la sangre, calambres, períodos pesados, sofocos, cambios de humor, problemas de la piel y heridas."
+    },
+    {
+      "nombre": "Clary Sage o Salvia",
+      "usos": "Calambres abdominales, amenorrea, colesterol, epilepsia, desequilibrio de estrógeno, desequilibrio hormonal, sofocos, períodos irregulares, calambres menstruales y síndrome premenstrual."
+    },
+    {
+      "nombre": "Clavo",
+      "usos": "Abscesos, dolor, adicciones, coágulos de sangre, cataratas, varicela, hongos, infecciones, glaucoma, gingivitis, hipotiroidismo, herpes simple, enfermedad de Lyme, moho, adicciones de fumador, dolor de muelas y candidiasis."
+    },
+    {
+      "nombre": "Console",
+      "usos": "Antienvejecimiento, daño cerebral, infección bronquial, edema, liberación emocional, dolor, latido irregular del corazón y reparación de la piel."
+    },
+    {
+      "nombre": "Copaiba",
+      "usos": "Artritis, gota, inflamación, toxicidad, hígado, tendinitis, problemas respiratorios, infecciones intestinales, trastornos autoinmunes, náuseas, migrañas y endometriosis."
+    },
+    {
+      "nombre": "Coriandro",
+      "usos": "Apetito, desequilibrio de azúcar en la sangre, olor corporal, intoxicación alimentaria, dolor en las articulaciones, baja energía, náuseas y erupciones."
+    },
+    {
+      "nombre": "Ciprés",
+      "usos": "Aneurisma, arteriosclerosis, control de la vejiga, hematoma, bursitis, síndrome del túnel carpiano, calambre, conmoción cerebral, caspa, hemorragia, hemorroides, calambres en las piernas, toxicidad de metales, esguinces, derrame cerebral, toxemia, tuberculosis y venas varicosas."
+    },
+    {
+      "nombre": "DDR Prime",
+      "usos": "Trastornos autoinmunes, condiciones de hongos, daño nervioso, tiroides y tumores."
+    },
+    {
+      "nombre": "Deep Blue",
+      "usos": "Dolores, artritis, contusiones, fibromialgia, dolores de crecimiento, dolor de cabeza, lupus, músculo, tensión y latigazo cervical."
+    },
+    {
+      "nombre": "DigestZen",
+      "usos": "Distensión abdominal, fatiga crónica, colitis, diarrea, intoxicación alimentaria, indigestión y problemas de senos nasales."
+    },
+    {
+      "nombre": "Dill",
+      "usos": "Colesterol, cólicos, desintoxicación, equilibrio de electrolitos, indigestión, menstruación, espasmos musculares y nerviosismo."
+    },
+    {
+      "nombre": "Abeto Douglas",
+      "usos": "Asistencia respiratoria, apoyo emocional y enfoque."
+    },
+    {
+      "nombre": "Elevation",
+      "usos": "Ansiedad, depresión, estado de ánimo, energizar, dolor, inmunidad, estrés y efecto edificante."
+    },
+    {
+      "nombre": "Eucalipto",
+      "usos": "Alergias, asma, bronquitis, congestión, tos, enfisema, endometriosis, rinitis alérgica, hipoglucemia, hiedra venenosa y neumonía."
+    },
+    {
+      "nombre": "Hinojo",
+      "usos": "Antioxidante, indigestión, soporte al sistema linfático, molestias menstruales, malestar oral e irritación de piel."
+    },
+    {
+      "nombre": "Forgive",
+      "usos": "Ansiedad, apego, circulación, equilibrio emocional, hongos, pérdida de cabello, parásitos, problemas de próstata y úlceras."
+    },
+    {
+      "nombre": "Incienso",
+      "usos": "Distracción, amnesia, aneurisma, artritis, autismo, coma, conmoción cerebral, tristeza, inflamación, trastornos del hígado, náusea matinal, fatiga mental, toxicidad de metal, quiste de ovario, enfermedad de Parkinson, poliomielitis, esquizofrenia, convulsiones y arrugas."
+    },
+    {
+      "nombre": "Geranio",
+      "usos": "Sangrado, ampollas, desintoxicación o limpieza, piel seca, piedras en vesícula biliar, hemorroides, desequilibrio hormonal, impétigo, ictericia, trastornos del hígado, toxicidad mental, obesidad y estrés."
+    },
+    {
+      "nombre": "Jengibre",
+      "usos": "Angina de pecho, estreñimiento, diarrea, gases, indigestión, náusea matinal, cinetosis, náuseas, parásitos, escorbuto y vértigo."
+    },
+    {
+      "nombre": "Toronja",
+      "usos": "Adicción, supresor del apetito, coágulos de sangre, celulitis, trastornos de la alimentación, toxicidad mental, obesidad y estrés."
+    },
+    {
+      "nombre": "Mandarina verde",
+      "usos": "Agitación, nerviosismo, gases, estreñimiento, úlceras, mala circulación, acné, piel grasa, cicatrices, desbalance de azúcar en la sangre, tos, cáncer de piel y mama, fatiga mental, demencia, arrugas, manchas por edad y estrías."
+    },
+    {
+      "nombre": "Harvest Spice",
+      "usos": "Impulsar el estado de ánimo, sensación de calor, felicidad y efecto edificante."
+    },
+    {
+      "nombre": "HD Clear",
+      "usos": "Acné, dermatitis, eczema, problemas de hongos, piel grasa, glándula sebácea hiperactiva y manchas de la piel."
+    },
+    {
+      "nombre": "Helicriso",
+      "usos": "Alcoholismo, aneurismas, hemorragias, trastornos de la circulación, hemorroides, tinnitus, regeneración de tejidos, tendón roto y venas varicosas."
+    },
+    {
+      "nombre": "Holiday Joy",
+      "usos": "Artritis, azúcar en la sangre, dolor de cabeza, molestias en el cuello, tensión, estrés y sueño reparador."
+    },
+    {
+      "nombre": "Hope",
+      "usos": "Ansiedad y elevación del estado de ánimo."
+    },
+    {
+      "nombre": "Immortelle o Salubelle",
+      "usos": "Manchas, líneas de expresión, cicatrices, daño solar y arrugas."
+    },
+    {
+      "nombre": "InTune u OnTask",
+      "usos": "ADD o ADHD, ansiedad, efecto calmante, concentración, depresión, foco, conexión a tierra, hiperactividad y claridad mental."
+    },
+    {
+      "nombre": "Jazmín",
+      "usos": "Ansiedad, depresión, piel seca, cansancio, equilibrio hormonal, disminución de la libido, perfume y conjuntivitis aguda."
+    },
+    {
+      "nombre": "Bayas de enebro",
+      "usos": "Soporte al riñón y a la función urinaria, un efecto limpiador y desintoxicante natural, y alivio de tensión y estrés."
+    },
+    {
+      "nombre": "Kumquat",
+      "usos": "Falta de perspectiva, lagunas mentales, falta de concentración, diabetes, asma, gripe, úlceras, parásitos, glándulas inflamadas, presión arterial alta y colesterol, apetito excesivo y desintoxicación."
+    },
+    {
+      "nombre": "Hoja de laurel",
+      "usos": "Limpieza, claridad de pensamiento, concentración, confianza, valor, calma de piel y músculos adoloridos, y efecto elevador."
+    },
+    {
+      "nombre": "Lavanda",
+      "usos": "Ansiedad, arritmia, aterosclerosis, contusiones, quemaduras, efecto calmante, cortes o rasguños, dermatitis del pañal, infección del oído, eczema, giardia, insolación, picaduras de insectos, insomnio, picazón, sarampión, hiedra venenosa, erupciones cutáneas, alergias en la piel, estrés y quemaduras solares."
+    },
+    {
+      "nombre": "Limón",
+      "usos": "Limpieza de platos y lavandería, tos, desinfección, disentería, piedras en la vesícula biliar, cabello graso, gota, eliminación de goma pegada, resaca, cálculos renales, dolor de garganta, manchas en la ropa e iluminación de marcador permanente."
+    },
+    {
+      "nombre": "Lemon Eucalyptus",
+      "usos": "Facilitar la respiración, refrescar el aire, repelencia de insectos, efecto vigorizante, alivio de picaduras de insectos, limpieza de superficies y efecto elevador."
+    },
+    {
+      "nombre": "Limoncillo",
+      "usos": "Infección de la vejiga, síndrome de túnel carpiano, trauma del tejido conectivo, gastritis y colesterol alto."
+    },
+    {
+      "nombre": "Lima",
+      "usos": "Elevación del estado de ánimo, desintoxicación, limpieza, repelencia de insectos, poderoso antioxidante y apoyo a la función inmune saludable."
+    },
+    {
+      "nombre": "Litsea",
+      "usos": "Asma, acné, bronquitis, dolor agudo y crónico de espalda, eczema, presión arterial, ansiedad, ritmo cardíaco irregular, tos, resfriado, dolor de cabeza, estrés, náusea, mareo, indigestión, celulitis y pie de atleta."
+    },
+    {
+      "nombre": "Magnolia",
+      "usos": "Ansiedad, depresión, falta de energía, síndrome premenstrual, desequilibrios hormonales, irritabilidad, histeria, pánico, pena y shock. Añade libido, deseo sexual, estrés, preocupación, irritaciones de la piel, cicatrices, acné, piel seca y problemas de sueño."
+    },
+    {
+      "nombre": "Manuka",
+      "usos": "Dolor de articulaciones, caspa, pie de atleta, problemas de hongos, acné, erupciones, frío, fiebre, congestión nasal, alergias, estrés, ansiedad, presión arterial alta y dolor muscular."
+    },
+    {
+      "nombre": "Mejorana",
+      "usos": "Artritis, cólicos, tosferina, presión arterial alta, dolor muscular, neuralgia, pancreatitis, enfermedad de Parkinson, síndrome de piernas inquietas y tendón desgarrado."
+    },
+    {
+      "nombre": "Melaleuca",
+      "usos": "Acné, aneurisma, pie de atleta, bacterias, varicela, cortes, infecciones del oído, eczema, hongos, herpes simplex, urticaria, tiña inguinal, sarampión, erupciones, herpes zóster, raspaduras, trastornos de la piel y aftas."
+    },
+    {
+      "nombre": "Melissa",
+      "usos": "Ansiedad, depresión, disentería, eczema, fiebre, presión arterial alta, infertilidad, tiña y vértigo."
+    },
+    {
+      "nombre": "Motivate",
+      "usos": "Dolores, asma, bronquitis, confusión, agotamiento, depresión, problemas digestivos, agobio y agotamiento físico."
+    },
+    {
+      "nombre": "Mirra",
+      "usos": "Amnesia, sangrado de encías, piel agrietada, disentería, hipertiroidismo y pérdida de la memoria."
+    },
+    {
+      "nombre": "Neroli",
+      "usos": "Libido, depresión, estrés, dolores de cabeza, convulsiones, presión arterial alta, síndrome premenstrual, insomnio, dolor, shock, dolores de estómago, acné, desodorante y tiña."
+    },
+    {
+      "nombre": "On Guard",
+      "usos": "Limpiador antiséptico; enfermedad autoinmune, resfrío, herpes labial, tos, heridas infectadas, matar gérmenes, salud oral y apoyo al tracto urinario."
+    },
+    {
+      "nombre": "Orégano",
+      "usos": "Pie de atleta, forúnculos, bronquitis, infecciones por hongos, gangrena, pancreatitis, parásitos, verrugas plantares, tiña y faringitis estreptocócica."
+    },
+    {
+      "nombre": "Passion",
+      "usos": "Depresión, circulación, infecciones, libido baja, congestión pulmonar, menstruación, problemas de memoria, congestión nasal y digestión lenta."
+    },
+    {
+      "nombre": "PastTense",
+      "usos": "Artritis, contusiones, quemaduras, dolores de cabeza, dolor en las articulaciones, migrañas, dolor de cuello u hombro, sueño reparador y hormonas."
+    },
+    {
+      "nombre": "Patchouli",
+      "usos": "Efecto balanceador de las emociones, heridas, reparación de tejidos, cuidado de la piel, arrugas, cicatrices y estrías."
+    },
+    {
+      "nombre": "Peace",
+      "usos": "ADD o ADHD, anorexia, adicciones, efecto calmante, parto, cólico, confusión, enfoque, hiperactividad, infertilidad y estrés."
+    },
+    {
+      "nombre": "Menta",
+      "usos": "Alergias, asma, parálisis, fatiga crónica de Bell, congestión, diarrea, fiebre, desmayos, rinitis alérgica, acidez, hipotiroidismo, indigestión, dolor de articulaciones, dolor de espalda baja, náuseas matutinas, neuralgia, falta de concentración y dolor de cabeza tensional."
+    },
+    {
+      "nombre": "Petitgrain",
+      "usos": "Infección bacteriana, heridas, congestión, convulsiones, ansiedad, ira, shock, nervios debilitados, olor corporal, caspa, palpitaciones y sudoración excesiva."
+    },
+    {
+      "nombre": "Pimienta rosa",
+      "usos": "Limpieza de cándida, enfermedad de Crohn, náuseas, gases, falta de apetito, gota, artritis, síndrome premenstrual, salud del seno, problemas respiratorios, ansiedad, infección, fiebre, tensión muscular, pérdida de atención, calentamiento, obesidad y mala circulación."
+    },
+    {
+      "nombre": "Purify",
+      "usos": "Acné, adicciones, alergias, picaduras de insectos, desodorante, gérmenes, repelencia de insectos y efecto edificante."
+    },
+    {
+      "nombre": "Ravensara",
+      "usos": "Escalofríos, gripe, tosferina, bronquitis, fatiga nerviosa y mental, gérmenes, dolor muscular y articular, y equilibrio emocional."
+    },
+    {
+      "nombre": "Red Mandarin",
+      "usos": "Heridas, distensión abdominal, hipo, IBS —sigla del síndrome de intestino irritable—, cólicos, fugas intestinales, cicatrices, estrías, tensión, hiperactividad en niños, úlceras, dolor de estómago, edema, depresión, convulsiones, fatiga, rabietas, histeria, gota, artritis y mala circulación."
+    },
+    {
+      "nombre": "Rescuer",
+      "usos": "Shock, angustia, miedo, dolores musculares, tensión, dolores de crecimiento, dolor de cabeza, migrañas, dolor de cuello, contusiones, lesiones, rutina de baño y hora de dormir."
+    },
+    {
+      "nombre": "Manzanilla romana",
+      "usos": "Alcoholismo, enfermedad de Alzheimer, problemas respiratorios, cólera, pérdida de cabello, baja presión arterial, enfermedad de Raynaud, dolor de cabeza sinusal y candidiasis."
+    },
+    {
+      "nombre": "Rosa",
+      "usos": "Depresión, equilibrio emocional, enriquecimiento facial, dolor, ovulación irregular, baja libido y convulsiones."
+    },
+    {
+      "nombre": "Romero",
+      "usos": "Parálisis de Bell, cáncer, celulitis, depresión, equilibrio emocional, desmayos, fatiga, pérdida de cabello, ictericia, enfermedad del hígado, memoria e infecciones respiratorias."
+    },
+    {
+      "nombre": "Sándalo",
+      "usos": "Enfermedad de Alzheimer, cáncer, efecto calmante, calambres, piel seca, equilibrio emocional, cicatrices, convulsiones, heridas y arrugas."
+    },
+    {
+      "nombre": "Sandalwood Hawaiian",
+      "usos": "Mejora del estado de ánimo, piel suave y saludable, y reducción de la apariencia de cicatrices y manchas."
+    },
+    {
+      "nombre": "Serenity",
+      "usos": "ADD o ADHD, ira, ansiedad, insomnio, tensión muscular, cuidado de la piel y perfume."
+    },
+    {
+      "nombre": "Abeto siberiano",
+      "usos": "Olor corporal, cáncer, trastornos autoinmunes, quemaduras, cándida, infecciones urinarias, equilibrio hormonal, digestión y circulación pobre."
+    },
+    {
+      "nombre": "Slim and Sassy",
+      "usos": "Apetito, balance de azúcar en la sangre, celulitis, congestión, resfriados, ansias, desintoxicación, estimulante digestivo, trastornos de alimentación, inflamación, soporte linfático, soporte del tracto urinario y obesidad."
+    },
+    {
+      "nombre": "Hierbabuena",
+      "usos": "Acné, mal aliento, bronquitis, cólico, dolor de cabeza, indigestión y problemas respiratorios."
+    },
+    {
+      "nombre": "Steady",
+      "usos": "Sentirse incooperativo, obstinado, fuera de control, sobreestimulado, abrumado, desconectado de la tierra y la realidad; problemas de enfoque, cambios de humor, inquietud, fuera de control, ira, frustración, rabietas, pena, tristeza y decepción."
+    },
+    {
+      "nombre": "Stronger",
+      "usos": "Bacterias, virus, patógenos aéreos, gripe, inmunidad débil, angustia emocional, límites pobres, inflamación de la garganta, tos, herpes labial, verrugas, heridas infectadas, cortes, raspaduras, hongos, parásitos, fatiga crónica y enfermedad autoinmune."
+    },
+    {
+      "nombre": "Tamer",
+      "usos": "Mejorar el estado de ánimo, indigestión, cinetosis, calma y alivio de la piel, efecto edificante y dolor de barriga."
+    },
+    {
+      "nombre": "Mandarina",
+      "usos": "Dolores musculares, artritis, congestión, equilibrio emocional, irritabilidad, parásitos, mala circulación, tristeza y retención de líquidos."
+    },
+    {
+      "nombre": "TerraShield",
+      "usos": "Salud celular, repelencia, afecciones de la piel, protector solar y esmalte de madera."
+    },
+    {
+      "nombre": "Thinker",
+      "usos": "ADD o ADHD, hiperactividad, cerebro sobre y poco activo, falta de claridad mental, enfoque y concentración, sentirse abrumado, pensamiento excesivo, estrés, falta de conexión a tierra, nerviosismo, ansiedad, temperamento, desconexión y convulsiones."
+    },
+    {
+      "nombre": "Tomillo",
+      "usos": "Aterosclerosis, calvicie, coágulos de sangre, bronquitis, tosferina, infecciones por hongos, neumonía, psoriasis, ciática, escoliosis, ronquidos y tuberculosis."
+    },
+    {
+      "nombre": "Cúrcuma",
+      "usos": "Trastornos autoinmunes, dolor de articulaciones, gota, reumatismo, accidente cerebrovascular, eczema, psoriasis, depresión, ansiedad, indigestión, mala circulación, diabetes, colesterol alto, problemas respiratorios, dolores musculares y picaduras de insectos."
+    },
+    {
+      "nombre": "Vetiver",
+      "usos": "Distracción, anorexia, autismo, insomnio, hiperactividad, pérdida de memoria, depresión posparto y estrías."
+    },
+    {
+      "nombre": "Whisper",
+      "usos": "Ira, equilibrio hormonal, efecto calmante, sofocos, libido y perfume."
+    },
+    {
+      "nombre": "White Fir",
+      "usos": "Asma, bronquitis, bursitis, lesiones del cartílago, congestión, dolor de articulaciones, debilidad de los músculos e infección urinaria."
+    },
+    {
+      "nombre": "Naranja silvestre",
+      "usos": "Ansiedad, frío, desintoxicación, miedo, acidez, insomnio, tristeza, estrés, náuseas y toxemia."
+    },
+    {
+      "nombre": "Gaultería",
+      "usos": "Dolores, síndrome del túnel carpiano, dolor de cabeza, molestias en las articulaciones, espasmos musculares, poliomielitis, dolores musculares, molestias bucales, tendón desgarrado y dolor de la dentición."
+    },
+    {
+      "nombre": "Yarrow",
+      "usos": "Acné, eczema, caída del cabello, depresión, dolores de muelas, indigestión, mala circulación, cáncer, artritis, varices, hemorragias y hemorroides."
+    },
+    {
+      "nombre": "Yarrow Pom",
+      "usos": "Soporte de antioxidantes, efecto calmante, salud celular, apoyo inmune, promoción de producción de colágeno, protección de la piel y apoyo al sistema nervioso."
+    },
+    {
+      "nombre": "Ylang Ylang",
+      "usos": "Ansiedad, arritmias, hipertensión arterial, falta de libido para los hombres y mujeres, e inquietud."
+    },
+    {
+      "nombre": "Zendocrine",
+      "usos": "Antioxidantes, problemas digestivos, limpieza endocrina, tracto urinario y pérdida de peso."
+    }
+  ],
+  "fichas": [
+    {
+      "condicion": "Coágulo de sangre",
+      "productos": [
+        "Helicriso",
+        "Clavo",
+        "Hinojo"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada o ingestión de algunas gotas, según necesidad.",
+      "advertencia": "Ante sospecha de trombosis, solicitar atención médica."
+    },
+    {
+      "condicion": "Colesterol alto",
+      "productos": [
+        "Slim and Sassy",
+        "Cúrcuma",
+        "Limoncillo"
+      ],
+      "aplicacion": "Aplicación tópica en las plantas de los pies o ingestión de un par de gotas dos veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Comezón",
+      "productos": [
+        "Melaleuca",
+        "Zendocrine",
+        "Eucalipto Limón"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas afectadas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Cólico",
+      "productos": [
+        "Hinojo",
+        "Serenity",
+        "DigestZen"
+      ],
+      "aplicacion": "Dilución de una gota con un aceite portador y aplicarla por vía tópica en el estómago y la espalda antes de que el bebé vaya a dormir.",
+      "advertencia": "En lactantes, consultar con pediatría antes de aplicar productos aromáticos."
+    },
+    {
+      "condicion": "Concentración",
+      "productos": [
+        "InTune u OnTask",
+        "ADAPTIV",
+        "Vetiver"
+      ],
+      "aplicacion": "Aplicación de unas cuantas gotas por vía tópica en la frente, sienes, base del cráneo y detrás de las orejas, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Congestión",
+      "productos": [
+        "Menta",
+        "Limón",
+        "Eucalipto"
+      ],
+      "aplicacion": "Aplicación tópica en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz o en el pecho; también ingestión de unas cuantas gotas o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Confianza o falta de confianza",
+      "productos": [
+        "Motivate",
+        "Jazmín",
+        "Hoja de laurel"
+      ],
+      "aplicacion": "Aplicación tópica en la frente, sienes, base del cráneo y detrás de las orejas, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Conmoción cerebral",
+      "productos": [
+        "Incienso",
+        "Bergamota",
+        "Sándalo"
+      ],
+      "aplicacion": "Aplicaciones tópicas en frente, sienes, base del cráneo y detrás de los oídos, difusión e inhalación o ingestión de algunas gotas durante unos días.",
+      "advertencia": "Un traumatismo craneal requiere valoración médica."
+    },
+    {
+      "condicion": "Conjuntivitis",
+      "productos": [
+        "Melaleuca",
+        "Romero",
+        "Lavanda"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas en torno a los ojos, aclarando «pero no en» ellos, o en las plantas de los pies varias veces al día; también, difusión e inhalación, ingestión o aplicación en los pies cada hora.",
+      "advertencia": "Evitar el contacto de aceites con los ojos y su contorno."
+    },
+    {
+      "condicion": "Control de la vejiga",
+      "productos": [
+        "Romero",
+        "Tomillo",
+        "Sándalo"
+      ],
+      "aplicacion": "Aplicación tópica en las zonas afectadas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Cortes",
+      "productos": [
+        "Lavanda",
+        "Mirra",
+        "Melaleuca"
+      ],
+      "aplicacion": "Dilución de una o dos gotas con un aceite portador y aplicación tópica en la zona afectada un par de veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Demencia",
+      "productos": [
+        "Incienso",
+        "DDR Prime",
+        "Mandarina verde"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de los oídos, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Depresión",
+      "productos": [
+        "Elevation",
+        "Cheer",
+        "Incienso"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de las orejas, o difusión en el aire e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dermatitis del pañal",
+      "productos": [
+        "Lavanda",
+        "Manzanilla romana",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Dilución de un par de gotas con un aceite portador y aplicación tópica varias veces al día hasta la desaparición del sarpullido.",
+      "advertencia": "En bebés, consultar antes de aplicar aceites sobre piel irritada."
+    },
+    {
+      "condicion": "Derrame cerebral",
+      "productos": [
+        "Hinojo",
+        "Ciprés",
+        "Helicriso"
+      ],
+      "aplicacion": "Aplicación en sienes, frente, detrás de los oídos y parte posterior del cuello, o ingestión en cápsula de tres a cuatro veces al día.",
+      "advertencia": "Ante signos de accidente cerebrovascular, solicitar atención de urgencia inmediata. No administrar aceites por boca."
+    },
+    {
+      "condicion": "Desbalance de cortisol",
+      "productos": [
+        "Clavo",
+        "Cilantro",
+        "Geranio"
+      ],
+      "aplicacion": "Aplicación tópica en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz o el pecho; también ingestión de algunas gotas o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desbalance de insulina",
+      "productos": [
+        "Orégano",
+        "Slim and Sassy",
+        "Cilantro"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, parte posterior del cuello y pecho, o ingestión de algunas gotas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desbalance de estrógeno",
+      "productos": [
+        "Whisper",
+        "Clary Sage",
+        "Zendocrine"
+      ],
+      "aplicacion": "Aplicación tópica en frente, pies, abdomen y espalda baja, o difusión e inhalación. Además, ingestión de un par de gotas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desbalance hormonal en hombres",
+      "productos": [
+        "Sándalo",
+        "Juniper Berry",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Aplicación tópica en abdomen, sienes y plantas de los pies, ingestión según necesidad, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desbalance hormonal en mujeres",
+      "productos": [
+        "ClaryCalm o Solace",
+        "Clary Sage",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Aplicación tópica en abdomen, sienes y plantas de los pies, ingestión según necesidad, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Descompensación horaria",
+      "productos": [
+        "Celery Seed",
+        "Peace",
+        "Serenity"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, nuca y zona del pecho, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desintoxicación",
+      "productos": [
+        "Zendocrine",
+        "Clavo",
+        "Semilla de apio"
+      ],
+      "aplicacion": "Aplicación en las plantas de los pies y en el interior de las muñecas, o ingestión de unas cuantas gotas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desmayo",
+      "productos": [
+        "Incienso",
+        "Romero",
+        "Citrus Bliss"
+      ],
+      "aplicacion": "Aplicación en la parte posterior del cuello, debajo de la nariz o en el puente de la nariz, difusión e inhalación o ingestión de unas gotas, según necesidad.",
+      "advertencia": "No administrar ningún producto por boca a una persona inconsciente."
+    },
+    {
+      "condicion": "Desorden autoinmune",
+      "productos": [
+        "DDR Prime",
+        "Zendocrine",
+        "Jengibre"
+      ],
+      "aplicacion": "Aplicación en estómago, pecho, plantas de los pies o interior de las muñecas, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Desorden bipolar",
+      "productos": [
+        "Peace",
+        "Vetiver",
+        "Bergamota"
+      ],
+      "aplicacion": "Aplicación en plantas de los pies, pecho o sienes, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Disentería",
+      "productos": [
+        "Jengibre",
+        "Mirra",
+        "Abeto siberiano"
+      ],
+      "aplicacion": "Aplicación tópica en el abdomen o ingestión de unas gotas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Difteria",
+      "productos": [
+        "Eucalipto",
+        "Limón",
+        "Breathe o Easy Air"
+      ],
+      "aplicacion": "Aplicación en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz o en el pecho, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Diarrea",
+      "productos": [
+        "DigestZen",
+        "Cilantro",
+        "Ginger"
+      ],
+      "aplicacion": "Ingestión de unas gotas o aplicación tópica en el área del estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Diabetes",
+      "productos": [
+        "Canela",
+        "Slim and Sassy",
+        "Cassia"
+      ],
+      "aplicacion": "Aplicación en pecho, abdomen y plantas de los pies todos los días, o ingestión de algunas gotas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dificultades de aprendizaje",
+      "productos": [
+        "Menta",
+        "InTune",
+        "Vetiver"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, parte posterior del cuello y pecho, según necesidad, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Disfunción eréctil",
+      "productos": [
+        "Ciprés",
+        "Sándalo",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Aplicación en sienes, muñecas y parte posterior del cuello, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dysphagia o problema para tragar",
+      "productos": [
+        "Jengibre",
+        "Pimienta negra",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación en el cuello o ingestión de unas cuantas gotas.",
+      "advertencia": "Ante dificultad para tragar, evitar aceites por boca por el riesgo de aspiración."
+    },
+    {
+      "condicion": "Dolor artrítico",
+      "productos": [
+        "Deep Blue",
+        "Copaiba",
+        "Cúrcuma"
+      ],
+      "aplicacion": "Aplicación tópica y masaje en las zonas afectadas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor crónico",
+      "productos": [
+        "Deep Blue",
+        "Copaiba",
+        "Gaultería"
+      ],
+      "aplicacion": "Aplicación tópica en la zona afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de cabeza",
+      "productos": [
+        "PastTense",
+        "Incienso",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación en frente, sienes y parte posterior del cuello, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolores de crecimiento",
+      "productos": [
+        "Limoncillo",
+        "Mejorana",
+        "Ciprés"
+      ],
+      "aplicacion": "Aplicación tópica en el área afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de cuello",
+      "productos": [
+        "Deep Blue",
+        "Copaiba",
+        "Gaultería"
+      ],
+      "aplicacion": "Masaje con unas gotas sobre el cuello varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de espalda",
+      "productos": [
+        "AromaTouch",
+        "Copaiba",
+        "Abeto siberiano"
+      ],
+      "aplicacion": "Aplicación tópica y masaje en las zonas afectadas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de dentición",
+      "productos": [
+        "Clavo",
+        "Gaultería",
+        "Manzanilla romana"
+      ],
+      "aplicacion": "Aplicación en el diente afectado y la encía o gárgaras varias veces al día.",
+      "advertencia": "En niños, consultar con pediatría u odontología antes de utilizar productos en la boca."
+    },
+    {
+      "condicion": "Dolor de estómago",
+      "productos": [
+        "Jengibre",
+        "DigestZen",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación tópica en el área del estómago, según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de garganta",
+      "productos": [
+        "On Guard",
+        "Orégano",
+        "Melaleuca"
+      ],
+      "aplicacion": "Ingestión o gárgaras con unas gotas mezcladas con agua, tragar al final, o difundir en el aire e inhalar. También, aplicación sobre la garganta, pecho y parte posterior del cuello varias veces al día, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de huesos",
+      "productos": [
+        "Deep Blue",
+        "Helicriso",
+        "Abeto siberiano"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor de muelas",
+      "productos": [
+        "Clavo",
+        "Melaleuca",
+        "On Guard"
+      ],
+      "aplicacion": "Aplicación de una gota en las encías por vía tópica o ingestión mediante agua, gárgaras y deglución, a diario o según necesidad.",
+      "advertencia": "El dolor dental persistente requiere atención odontológica."
+    },
+    {
+      "condicion": "Dolor de pecho",
+      "productos": [
+        "On Guard",
+        "DDR Prime",
+        "AromaTouch"
+      ],
+      "aplicacion": "Aplicación de unas gotas tópicamente en el pecho o ingestión al menos dos veces al día.",
+      "advertencia": "Ante dolor de pecho, solicitar valoración médica urgente."
+    },
+    {
+      "condicion": "Dolor de oídos",
+      "productos": [
+        "Helicriso",
+        "Albahaca",
+        "Melaleuca"
+      ],
+      "aplicacion": "",
+      "advertencia": "Aplicación alrededor de las plantas de la oreja o en una bola de algodón colocada sobre la abertura del oído durante la noche. Evitar la aplicación directa dentro del oído."
+    },
+    {
+      "condicion": "Dolor en articulaciones",
+      "productos": [
+        "Cúrcuma",
+        "Deep Blue",
+        "Celery Seed"
+      ],
+      "aplicacion": "Aplicación en el área afectada, según necesidad, o ingestión de un par de gotas varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor menstrual",
+      "productos": [
+        "PastTense",
+        "Clary Sage",
+        "Mejorana"
+      ],
+      "aplicacion": "Masaje con unas gotas en el abdomen, la parte inferior de la espalda y los pies.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Dolor muscular",
+      "productos": [
+        "Menta",
+        "Deep Blue",
+        "AromaTouch"
+      ],
+      "aplicacion": "Masaje con unas gotas en los músculos afectados, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Drogadicción",
+      "productos": [
+        "Zendocrine",
+        "Cassia",
+        "Purify"
+      ],
+      "aplicacion": "Aplicación en pecho, sienes y plantas de los pies todos los días, o ingestión de unas gotas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Encías con sangrado",
+      "productos": [
+        "Helicriso",
+        "Mirra",
+        "Clavo"
+      ],
+      "aplicacion": "Aplicación de un par de gotas en las encías o en las plantas de los pies diariamente.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Eczema",
+      "productos": [
+        "HD Clear",
+        "Helicriso",
+        "Madera de Cedro"
+      ],
+      "aplicacion": "Aplicación de unas gotas tópicamente en el área afectada, según necesidad, y señala que se puede diluir con un aceite portador.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Edema",
+      "productos": [
+        "Ciprés",
+        "Limón",
+        "Toronja"
+      ],
+      "aplicacion": "Masaje tópico en la zona afectada y las plantas de los pies, o ingestión un par de veces al día o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Energía",
+      "productos": [
+        "Menta",
+        "Elevation",
+        "Motivate"
+      ],
+      "aplicacion": "Aplicación en plantas de los pies, bajo la nariz, en el puente de la nariz o en el pecho, según necesidad; también ingestión o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Enfermedad cardiovascular",
+      "productos": [
+        "DDR Prime",
+        "Cilantro",
+        "AromaTouch"
+      ],
+      "aplicacion": "Aplicación en el pecho o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Enfermedad de las encías",
+      "productos": [
+        "Clavo",
+        "Mirra",
+        "On Guard"
+      ],
+      "aplicacion": "Aplicación de un par de gotas en las encías o en las plantas de los pies diariamente.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Enfermedad de manos pies y boca",
+      "productos": [
+        "Clavo",
+        "Melaleuca",
+        "On Guard"
+      ],
+      "aplicacion": "Aplicación tópica en la zona afectada, ingestión según necesidad, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Enfermedad inflamatoria intestinal",
+      "productos": [
+        "DigestZen",
+        "Zendocrine",
+        "Jengibre"
+      ],
+      "aplicacion": "Aplicación tópica en el estómago, según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Enfisema",
+      "productos": [
+        "Pimienta negra",
+        "Douglas Fir",
+        "Breathe o Easy Air"
+      ],
+      "aplicacion": "Aplicación en la parte posterior del cuello, debajo de la nariz, en el pecho o en el puente de la nariz, según necesidad; también ingestión o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Enuresis nocturna",
+      "productos": [
+        "Ciprés",
+        "Pimienta negra",
+        "Copaiba"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas de vejiga y riñones antes de acostarse, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Espasmos musculares",
+      "productos": [
+        "Albahaca",
+        "Limoncillo",
+        "Nardo"
+      ],
+      "aplicacion": "Masaje con unas gotas tópicamente en los músculos afectados, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Estreñimiento",
+      "productos": [
+        "DigestZen",
+        "Mandarina verde",
+        "Jengibre"
+      ],
+      "aplicacion": "Aplicación tópica para disminuir el abdomen o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Estrías",
+      "productos": [
+        "Immortelle",
+        "Mandarina verde",
+        "Mirra"
+      ],
+      "aplicacion": "Aplicación de un par de gotas tópicamente en las áreas afectadas un par de veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fatiga crónica",
+      "productos": [
+        "Menta",
+        "Albahaca",
+        "Pimienta negra"
+      ],
+      "aplicacion": "Aplicación en pecho, plantas de los pies o interior de las muñecas, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fatiga mental",
+      "productos": [
+        "Limoncillo",
+        "Bergamota",
+        "Citrus Bliss"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, nuca y plantas de los pies, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fatiga nerviosa",
+      "productos": [
+        "Arborvitae",
+        "Albahaca",
+        "Mandarina"
+      ],
+      "aplicacion": "Difusión e inhalación o aplicación tópica en sienes, detrás de los oídos y parte posterior del cuello, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fiebre",
+      "productos": [
+        "Menta",
+        "Eucalipto",
+        "Pimienta rosa"
+      ],
+      "aplicacion": "Aplicación en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz, pecho o sienes, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fiebre reumática",
+      "productos": [
+        "Arborvitae",
+        "Gaultería",
+        "Orégano"
+      ],
+      "aplicacion": "Difusión e inhalación varias veces al día o aplicación en plantas de los pies.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fibromialgia",
+      "productos": [
+        "DDR Prime",
+        "AromaTouch",
+        "Jengibre"
+      ],
+      "aplicacion": "Aplicación de unas cuantas gotas tópicamente en las áreas afectadas o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Fibromas uterinos",
+      "productos": [
+        "Sándalo",
+        "Incienso",
+        "Limoncillo"
+      ],
+      "aplicacion": "Aplicación tópica en el abdomen diariamente o ingestión de unas gotas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Furúnculos",
+      "productos": [
+        "Melaleuca",
+        "Purify",
+        "Lavanda"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Gas o flatulencia",
+      "productos": [
+        "Pimienta negra",
+        "DigestZen",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación tópica en el área del estómago o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Gastritis",
+      "productos": [
+        "Jengibre",
+        "Cilantro",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación tópica en el área del estómago o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Giardia",
+      "productos": [
+        "Romero",
+        "Orégano",
+        "Hierbabuena"
+      ],
+      "aplicacion": "Aplicación tópica en el estómago y el pecho, o ingestión varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Gingivitis",
+      "productos": [
+        "On Guard",
+        "Clavo",
+        "Mirra"
+      ],
+      "aplicacion": "Gárgaras con unas gotas mezcladas con agua varias veces al día o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Golpe de calor",
+      "productos": [
+        "Menta",
+        "Zendocrine",
+        "Hierbabuena"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, nuca y pecho, o ingestión, según necesidad.",
+      "advertencia": "El golpe de calor requiere atención urgente."
+    },
+    {
+      "condicion": "Gota",
+      "productos": [
+        "Cúrcuma",
+        "Gaultería",
+        "Deep Blue"
+      ],
+      "aplicacion": "Ingestión de unas gotas o masaje suave en las articulaciones afectadas varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Gusanos",
+      "productos": [
+        "Orégano",
+        "Tomillo",
+        "Jengibre"
+      ],
+      "aplicacion": "Ingestión de unas gotas y aplicación tópica en el estómago dos a tres veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Herpes labial",
+      "productos": [
+        "Clavo",
+        "On Guard",
+        "Melaleuca"
+      ],
+      "aplicacion": "Aplicación tópica en la zona afectada, según necesidad, o ingestión de unas cuantas gotas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hinchazón",
+      "productos": [
+        "DigestZen",
+        "Hinojo",
+        "Jengibre"
+      ],
+      "aplicacion": "Aplicación tópica sobre estómago, pecho o plantas de los pies, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Halitosis",
+      "productos": [
+        "Zendocrine",
+        "Hierbabuena",
+        "On Guard"
+      ],
+      "aplicacion": "Gárgaras con unas gotas mezcladas con agua varias veces al día o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hematoma",
+      "productos": [
+        "AromaTouch",
+        "Ciprés",
+        "Mejorana"
+      ],
+      "aplicacion": "Aplicación tópica en la zona afectada dos a tres veces al día o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hemorragia nasal",
+      "productos": [
+        "Helicriso",
+        "Geranio",
+        "Mirra"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas tópicamente en el puente y los lados de la nariz y en la parte posterior del cuello, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hemorroides",
+      "productos": [
+        "Helicriso",
+        "Mirra",
+        "Ciprés"
+      ],
+      "aplicacion": "Dilución de unas gotas con aceite portador y aplicar directamente en las áreas afectadas diariamente o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hernia hiatal",
+      "productos": [
+        "Ciprés",
+        "Albahaca",
+        "Arborvitae"
+      ],
+      "aplicacion": "Aplicación tópica en la zona del estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hernia de disco",
+      "productos": [
+        "Abeto siberiano",
+        "Gaultería",
+        "Deep Blue"
+      ],
+      "aplicacion": "Aplicación tópica en el área afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Herida infectada",
+      "productos": [
+        "Mirra",
+        "Helicriso",
+        "Incienso"
+      ],
+      "aplicacion": "Aplicación tópica en el área afectada de dos a tres veces al día o según necesidad.",
+      "advertencia": "Las heridas infectadas requieren limpieza y valoración profesional."
+    },
+    {
+      "condicion": "Herpes",
+      "productos": [
+        "Pimienta negra",
+        "Melaleuca",
+        "Melissa"
+      ],
+      "aplicacion": "Aplicación tópica en el área afectada, en la parte posterior del cuello y a lo largo de la columna vertebral diariamente o según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Herpes simplex",
+      "productos": [
+        "Melissa",
+        "Clavo",
+        "Melaleuca"
+      ],
+      "aplicacion": "Ingestión de unas gotas o compresa caliente tópica sobre el área del riñón, o aplicación a la derecha e izquierda de la garganta a diario.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hepatitis",
+      "productos": [
+        "Geranio",
+        "Mirra",
+        "Zendocrine"
+      ],
+      "aplicacion": "Ingestión de unas gotas o compresa caliente sobre el área del riñón, o aplicación a la derecha e izquierda de la garganta a diario.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hiedra venenosa",
+      "productos": [
+        "Incienso",
+        "Lavanda",
+        "Geranio"
+      ],
+      "aplicacion": "Aplicación tópica en la zona afectada un par de veces al día o cuando sea necesario.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hiperactividad",
+      "productos": [
+        "Madera de Cedro",
+        "InTune",
+        "Vetiver"
+      ],
+      "aplicacion": "Aplicación tópica y masaje en las zonas afectadas o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hipersomnia",
+      "productos": [
+        "Zendocrine",
+        "Menta",
+        "Limón"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación; también ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hipertiroidismo",
+      "productos": [
+        "Incienso",
+        "Romero",
+        "Mirra"
+      ],
+      "aplicacion": "Aplicación tópica en sienes, base del cráneo y detrás de las orejas o ingestión varias veces al día, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hipo",
+      "productos": [
+        "Arborvitae",
+        "Limón",
+        "Serenity"
+      ],
+      "aplicacion": "Difusión e inhalación o masaje tópico en pecho y área del estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hipoglucemia",
+      "productos": [
+        "Slim and Sassy",
+        "Cilantro",
+        "Cassia"
+      ],
+      "aplicacion": "Aplicación en pecho, plantas de los pies e interior de las muñecas, o ingestión, según necesidad.",
+      "advertencia": "Una hipoglucemia requiere su tratamiento específico de inmediato."
+    },
+    {
+      "condicion": "Hipotiroidismo",
+      "productos": [
+        "Clavo",
+        "Incienso",
+        "Limoncillo"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación; añade ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Hongos en la piel",
+      "productos": [
+        "Melaleuca",
+        "Arborvitae",
+        "Madera de Cedro"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas afectadas varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Ictericia",
+      "productos": [
+        "Zendocrine",
+        "Geranio",
+        "Romero"
+      ],
+      "aplicacion": "Aplicación alrededor de la abertura del ojo o en una bola de algodón colocada sobre la abertura del ojo durante la noche, y aclara que no se aplique directamente en el ojo. Además, ingestión de un par de gotas.",
+      "advertencia": "Evitar cualquier aplicación ocular. La ictericia requiere valoración médica."
+    },
+    {
+      "condicion": "Indigestión",
+      "productos": [
+        "DigestZen",
+        "Pimienta negra",
+        "Slim and Sassy"
+      ],
+      "aplicacion": "Aplicación tópica en la zona del estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Infección dental",
+      "productos": [
+        "On Guard",
+        "Clavo",
+        "Canela"
+      ],
+      "aplicacion": "Aplicación de una gota en las encías y alrededor de los dientes un par de veces al día o ingestión de unas cuantas gotas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Infección de oído",
+      "productos": [
+        "Romero",
+        "Albahaca",
+        "Melaleuca"
+      ],
+      "aplicacion": "Aplicación alrededor de la abertura de la oreja o en algodón colocado sobre ella durante la noche, y aclara que no se aplique directamente en el oído. También menciona ingestión de unas gotas, según necesidad.",
+      "advertencia": "Evitar introducir aceites en el conducto auditivo."
+    },
+    {
+      "condicion": "Infección renal",
+      "productos": [
+        "Canela",
+        "Juniper Berry",
+        "Limoncillo"
+      ],
+      "aplicacion": "Aplicación tópica en la zona de los riñones o ingestión, según necesidad.",
+      "advertencia": "Una posible infección renal requiere atención médica."
+    },
+    {
+      "condicion": "Infertilidad",
+      "productos": [
+        "Clary Sage",
+        "DDR Prime",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Aplicación tópica en el abdomen diariamente o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Inflamación",
+      "productos": [
+        "Cúrcuma",
+        "Copaiba",
+        "Incienso"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas afectadas o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Inquietud",
+      "productos": [
+        "Balance",
+        "Lavanda",
+        "Serenity"
+      ],
+      "aplicacion": "Difusión e inhalación o aplicación tópica en plantas de los pies, espalda y parte posterior del cuello, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Insomnio",
+      "productos": [
+        "Lavanda",
+        "Magnolia",
+        "Serenity"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, espalda, nuca y pecho, ingestión de varias gotas, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Ira",
+      "productos": [
+        "Balance",
+        "Peace",
+        "Forgive"
+      ],
+      "aplicacion": "Aplicación tópica o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Intolerancia a la lactosa",
+      "productos": [
+        "DigestZen",
+        "Cilantro",
+        "Cardamomo"
+      ],
+      "aplicacion": "Ingestión de unas gotas o aplicación tópica en la zona del estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Intoxicación alimentaria",
+      "productos": [
+        "Zendocrine",
+        "DigestZen",
+        "Melaleuca"
+      ],
+      "aplicacion": "Aplicación en estómago y plantas de los pies, ingestión de unas pocas gotas tres veces al día o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Juanetes",
+      "productos": [
+        "Copaiba",
+        "Eucalipto",
+        "Ciprés"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada o las articulaciones, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Lactancia o producción de leche",
+      "productos": [
+        "Clary Sage",
+        "Albahaca",
+        "Hinojo"
+      ],
+      "aplicacion": "Masaje tópico sobre el seno y aplicación en plantas de los pies, o ingestión cuando sea necesario.",
+      "advertencia": "Evitar aceites sobre el pezón o las zonas que entren en contacto con la boca del bebé."
+    },
+    {
+      "condicion": "Lagunas mentales",
+      "productos": [
+        "Menta",
+        "Motivate",
+        "InTune u OnTask"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Laringitis",
+      "productos": [
+        "On Guard",
+        "Mirra",
+        "Limón"
+      ],
+      "aplicacion": "Difusión e inhalación tres a cuatro veces al día o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Lesión cerebral",
+      "productos": [
+        "Incienso",
+        "DDR Prime",
+        "Balance"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación. Además, ingestión de unas gotas de Incienso o DDR Prime, según necesidad.",
+      "advertencia": "Las lesiones cerebrales requieren atención médica."
+    },
+    {
+      "condicion": "Libido baja",
+      "productos": [
+        "Ylang Ylang",
+        "Neroli",
+        "Passion"
+      ],
+      "aplicacion": "Aplicación tópica en abdomen, plantas de los pies y sienes, o ingestión según necesidad, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Lunares",
+      "productos": [
+        "HD Clear",
+        "Incienso",
+        "Sándalo"
+      ],
+      "aplicacion": "Aplicación tópica en el lunar diariamente.",
+      "advertencia": "Los lunares nuevos o que cambian requieren revisión dermatológica."
+    },
+    {
+      "condicion": "Lumbago",
+      "productos": [
+        "Deep Blue",
+        "Abeto siberiano",
+        "Sándalo"
+      ],
+      "aplicacion": "Masaje tópico en la espalda inferior un par de veces al día o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Manchas cutáneas",
+      "productos": [
+        "Rosa",
+        "Yarrow Pom",
+        "Hoja de laurel"
+      ],
+      "aplicacion": "Masaje tópico con un par de gotas en el área afectada un par de veces al día, e indica diluir si es necesario.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Mareos",
+      "productos": [
+        "Zendocrine",
+        "Balance",
+        "Madera de Cedro"
+      ],
+      "aplicacion": "Aplicación en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz o en las sienes, o difusión e inhalación. Además, una gota de Zendocrine por vía interna, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Menopausia",
+      "productos": [
+        "Clary Sage",
+        "ClaryCalm o Solace",
+        "Passion"
+      ],
+      "aplicacion": "Aplicación tópica en abdomen, plantas de los pies y espalda, nuca diariamente o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Migraña",
+      "productos": [
+        "Menta",
+        "Copaiba",
+        "Incienso"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo, parte posterior del cuello y plantas de los pies, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Moho u hongos",
+      "productos": [
+        "Melaleuca",
+        "Purify",
+        "Orégano"
+      ],
+      "aplicacion": "Difusión en el aire donde el moho esté presente varias veces al día, hasta que desaparezca, o aplicación en el área de preocupación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Moretón",
+      "productos": [
+        "Helicriso",
+        "Geranio",
+        "Deep Blue"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área amoratada.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Náusea",
+      "productos": [
+        "Jengibre",
+        "Zendocrine",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación de un par de gotas tópicamente debajo de la lengua, detrás de las orejas y sobre el ombligo cada hora, o ingestión o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Náuseas matutinas",
+      "productos": [
+        "Jengibre",
+        "Menta",
+        "DigestZen"
+      ],
+      "aplicacion": "Aplicación tópica detrás de las orejas y sobre el ombligo cada hora, o difusión e inhalación o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Neumonía",
+      "productos": [
+        "On Guard",
+        "Breathe o Easy Air",
+        "Manzanilla romana"
+      ],
+      "aplicacion": "Aplicación en pecho y zona del cuello tres a cinco veces diariamente, gárgaras cada hora y difusión e inhalación regularmente.",
+      "advertencia": "La neumonía requiere tratamiento médico."
+    },
+    {
+      "condicion": "Neuropatía",
+      "productos": [
+        "Ciprés",
+        "AromaTouch",
+        "Gaultería"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas afectadas varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Ojos hinchados",
+      "productos": [
+        "Geranio",
+        "Immortelle",
+        "Patchouli"
+      ],
+      "aplicacion": "Aplicación de un par de gotas alrededor de la apertura del ojo o en algodón sobre el ojo cerrado; también ingestión, según necesidad.",
+      "advertencia": "Evitar el contacto de aceites con los ojos y su contorno."
+    },
+    {
+      "condicion": "Olor corporal",
+      "productos": [
+        "Zendocrine",
+        "Arborvitae",
+        "Petitgrain"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada, según necesidad, e ingestión de algunas gotas de Zendocrine o Petitgrain por lo menos una vez al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Osteoartritis",
+      "productos": [
+        "Abeto siberiano",
+        "Gaultería",
+        "Deep Blue"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas afectadas diariamente.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Osteoporosis",
+      "productos": [
+        "Limoncillo",
+        "Clavo",
+        "Geranio"
+      ],
+      "aplicacion": "Masaje tópico sobre la columna vertebral y las zonas afectadas diariamente, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Palpitaciones",
+      "productos": [
+        "Lavanda",
+        "Naranja silvestre",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Aplicación tópica varias veces en la zona del pecho, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Pancreatitis",
+      "productos": [
+        "Zendocrine",
+        "Mejorana",
+        "Cilantro"
+      ],
+      "aplicacion": "Ingestión de unas gotas varias veces a la semana o aplicación tópica en el abdomen.",
+      "advertencia": "La pancreatitis requiere atención médica."
+    },
+    {
+      "condicion": "Parásitos",
+      "productos": [
+        "Orégano",
+        "Clavo",
+        "Zendocrine"
+      ],
+      "aplicacion": "Ingestión o aplicación tópica mediante compresa caliente sobre la zona intestinal dos a tres veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Pechos fibroquísticos",
+      "productos": [
+        "Clary Sage",
+        "Sándalo",
+        "Geranio"
+      ],
+      "aplicacion": "Aplicación tópica en los pechos, según necesidad, o ingestión al menos dos veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Pérdida de cabello",
+      "productos": [
+        "DDR Prime",
+        "Arborvitae",
+        "Romero"
+      ],
+      "aplicacion": "Dilución de cinco gotas en veinte gotas de aceite portador, aplicar y dar masaje en el cuero cabelludo cada noche.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Pie de atleta",
+      "productos": [
+        "Melaleuca",
+        "HD Clear",
+        "Orégano"
+      ],
+      "aplicacion": "Aplicación tópica entre los dedos de los pies y alrededor de las uñas un par de veces al día hasta que desaparezcan los síntomas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Piel agrietada",
+      "productos": [
+        "Mirra",
+        "Manzanilla romana",
+        "Immortelle o Salubelle"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas tópicamente en el área afectada tan a menudo como sea necesario.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Piel deshidratada",
+      "productos": [
+        "Rosa",
+        "Mirra",
+        "Immortelle"
+      ],
+      "aplicacion": "Aplicación de un par de gotas tópicamente en las áreas afectadas, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Piedras en la vesícula",
+      "productos": [
+        "Limón",
+        "Cilantro",
+        "Juniper Berry"
+      ],
+      "aplicacion": "Aplicación tópica sobre la vesícula biliar varias veces al día o ingestión de unas gotas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Picadura de avispa",
+      "productos": [
+        "Lavanda",
+        "Purify",
+        "Manzanilla romana"
+      ],
+      "aplicacion": "Aplicación tópica en la picadura varias veces al día o según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Picaduras de garrapatas",
+      "productos": [
+        "Melaleuca",
+        "Purify",
+        "TerraShield"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas sobre la picadura de la garrapata con frecuencia durante las primeras horas, después de eliminar cuidadosamente la garrapata.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Piojos de la cabeza",
+      "productos": [
+        "Melaleuca",
+        "Romero",
+        "Arborvitae"
+      ],
+      "aplicacion": "Dilución de varias gotas y aplicar en todo el cuero cabelludo, colocar un champú y enjuagar treinta minutos más tarde. Añade repetir al día por varios minutos.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Piquete de abeja",
+      "productos": [
+        "Purify",
+        "Manzanilla romana",
+        "Albahaca"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas tópicamente en la picadura o mordida varias veces al día hasta que cesen los síntomas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Presión arterial alta",
+      "productos": [
+        "Petitgrain",
+        "Mejorana",
+        "Ylang Ylang"
+      ],
+      "aplicacion": "Aplicación sobre estómago, pecho, plantas de los pies o interior de las muñecas, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Presión arterial baja",
+      "productos": [
+        "Albahaca",
+        "Helicriso",
+        "Tomillo"
+      ],
+      "aplicacion": "Aplicación sobre estómago, pecho, plantas de los pies o interior de las muñecas, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Problemas de audición",
+      "productos": [
+        "Incienso",
+        "Helicriso",
+        "Albahaca"
+      ],
+      "aplicacion": "Aplicación de un par de gotas en las sienes, frente y alrededor de la abertura de la oreja, o en algodón colocado sobre dicha abertura durante la noche. Aclara que no se aplique directamente en el oído.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Problema de equilibrio",
+      "productos": [
+        "Jengibre",
+        "Madera de Cedro",
+        "Balance"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación; también ingestión de unas gotas de Jengibre, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Problemas de respiración",
+      "productos": [
+        "Breathe o Easy Air",
+        "Eucalipto",
+        "Abeto negro"
+      ],
+      "aplicacion": "Aplicación en pecho, cuello, debajo de la nariz y puente de la nariz, según necesidad cada hora, o difusión e inhalación.",
+      "advertencia": "Ante dificultad respiratoria, solicitar atención médica inmediata."
+    },
+    {
+      "condicion": "Psoriasis",
+      "productos": [
+        "Cúrcuma",
+        "Rosa",
+        "Zendocrine"
+      ],
+      "aplicacion": "Aplicación tópica en el área afectada un par de veces al día o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Quemaduras",
+      "productos": [
+        "Lavanda",
+        "Melaleuca",
+        "Helicriso"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada cada hora, según necesidad.",
+      "advertencia": "Evitar aplicar aceites sobre piel lesionada."
+    },
+    {
+      "condicion": "Quemadura de sol",
+      "productos": [
+        "Lavanda",
+        "Menta",
+        "Helicriso"
+      ],
+      "aplicacion": "Aplicación tópica en el área afectada cada hora, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Quiste",
+      "productos": [
+        "Tomillo",
+        "Cardamomo",
+        "On Guard"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas tópicamente en la zona afectada a diario o cuando sea necesario.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Quiste de ovario",
+      "productos": [
+        "Incienso",
+        "Salvia",
+        "Albahaca"
+      ],
+      "aplicacion": "Incorporación de unas gotas a un tampón para su introducción durante la noche por varios días, o aplicación de compresas calientes en el estómago o ingerir.",
+      "advertencia": "Evitar la introducción vaginal de aceites o de tampones impregnados con ellos."
+    },
+    {
+      "condicion": "Reflujo ácido",
+      "productos": [
+        "Menta",
+        "DigestZen",
+        "Jengibre"
+      ],
+      "aplicacion": "Ingestión de unas gotas o aplicación tópica en el área del estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Reflujo infantil",
+      "productos": [
+        "Hinojo",
+        "DigestZen",
+        "Lavanda"
+      ],
+      "aplicacion": "Aplicación de unas gotas diluidas por vía tópica en el estómago y el pecho, según necesidad.",
+      "advertencia": "En lactantes, consultar con pediatría antes de usar productos aromáticos."
+    },
+    {
+      "condicion": "Resaca",
+      "productos": [
+        "Zendocrine",
+        "PastTense",
+        "Toronja"
+      ],
+      "aplicacion": "Incorporación de unas gotas al baño caliente o aplicación sobre la cabeza, cuello o espalda mediante masaje, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Repelente de insectos",
+      "productos": [
+        "TerraShield",
+        "Citronella",
+        "Eucalipto Limón"
+      ],
+      "aplicacion": "Aplicación tópica sobre la piel expuesta antes de salir al aire libre y repetición según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Rigidez muscular",
+      "productos": [
+        "AromaTouch",
+        "PastTense",
+        "Hoja de laurel"
+      ],
+      "aplicacion": "Masaje con unas gotas en los músculos afectados dos a tres veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Rinitis",
+      "productos": [
+        "Breathe o Easy Air",
+        "Hierbabuena",
+        "Orégano"
+      ],
+      "aplicacion": "Difusión e inhalación varias veces al día, aplicación de un par de gotas en frente y puente de la nariz, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Rinitis alérgica",
+      "productos": [
+        "Cilantro",
+        "Breathe o Easy Air",
+        "Limón"
+      ],
+      "aplicacion": "Aplicación en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz o en el pecho, o ingestión; también difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sarampión",
+      "productos": [
+        "Eucalipto",
+        "Blue Tansy",
+        "Melaleuca"
+      ],
+      "aplicacion": "Frotar ligeramente sobre las manchas varias veces al día, o ingerir varias gotas en agua, y realizar masaje tópico en la nuca o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sangrado",
+      "productos": [
+        "Helicriso",
+        "Geranio",
+        "Mirra"
+      ],
+      "aplicacion": "Aplicación tópica sobre el área afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sangrado menstrual excesivo",
+      "productos": [
+        "Helicriso",
+        "Salvia",
+        "Geranio"
+      ],
+      "aplicacion": "Masaje en abdomen, espalda baja y hombros, aplicación en una compresa caliente sobre el útero o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sarpullidos",
+      "productos": [
+        "Arborvitae",
+        "Manzanilla romana",
+        "Madera de Cedro"
+      ],
+      "aplicacion": "Dilución de unas gotas con un aceite portador y aplicación tópica en el área afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Síndrome del corazón roto",
+      "productos": [
+        "Console",
+        "Lima",
+        "Clary Sage"
+      ],
+      "aplicacion": "Aplicación en plantas de los pies, pecho o sienes, ingestión o difusión e inhalación, según necesidad.",
+      "advertencia": "El dolor de pecho u otros síntomas cardíacos requieren atención médica."
+    },
+    {
+      "condicion": "Síndrome de Down",
+      "productos": [
+        "DDR Prime",
+        "Balance",
+        "Incienso"
+      ],
+      "aplicacion": "Aplicación de un par de gotas tópicamente en pecho y plantas de los pies todos los días, o ingestión diariamente.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Síndrome de piernas inquietas",
+      "productos": [
+        "AromaTouch",
+        "Gaultería",
+        "Ciprés"
+      ],
+      "aplicacion": "Masaje tópico sobre las piernas antes de dormir o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Síndrome de intestino irritable",
+      "productos": [
+        "DigestZen",
+        "Jengibre",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación tópica en el estómago, según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Síndrome premenstrual",
+      "productos": [
+        "ClaryCalm o Solace",
+        "Salvia",
+        "Magnolia"
+      ],
+      "aplicacion": "Incorporación de unas gotas al baño caliente o aplicación tópicamente en el abdomen, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Síndrome del túnel carpiano",
+      "productos": [
+        "Gaultería",
+        "Limoncillo",
+        "Copaiba"
+      ],
+      "aplicacion": "Aplicación tópica en la zona afectada varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Síntomas de abstinencia",
+      "productos": [
+        "Zendocrine",
+        "Incienso",
+        "Nardo"
+      ],
+      "aplicacion": "Aplicación tópica en plantas de los pies y detrás del cuello, o difusión e inhalación, según necesidad. La abstinencia puede requerir supervisión médica.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sinusitis",
+      "productos": [
+        "Cardamomo",
+        "Breathe o Easy Air",
+        "Romero"
+      ],
+      "aplicacion": "Difusión e inhalación varias veces al día o gárgaras con unas gotas mezcladas con agua. También describe aplicación en parte posterior del cuello, debajo de la nariz, en el puente de la nariz o en el pecho, según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sistema inmune",
+      "productos": [
+        "On Guard",
+        "Clavo",
+        "Melaleuca"
+      ],
+      "aplicacion": "Aplicación tópica en pecho, frente, sienes, base del cráneo y detrás de los oídos, ingestión o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sofocos",
+      "productos": [
+        "ClaryCalm o Solace",
+        "Whisper",
+        "Clary Sage"
+      ],
+      "aplicacion": "Aplicación tópica en pecho, cuello y cara, según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Sudores nocturnos",
+      "productos": [
+        "DDR Prime",
+        "Lima",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación en abdomen y parte posterior del cuello antes de dormir, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Supresor de apetito",
+      "productos": [
+        "Slim and Sassy",
+        "Toronja",
+        "Jengibre"
+      ],
+      "aplicacion": "Aplicación sobre estómago, pecho, plantas de los pies o interior de las muñecas, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Temor",
+      "productos": [
+        "Naranja silvestre",
+        "Balance",
+        "Peace"
+      ],
+      "aplicacion": "Difusión e inhalación o aplicación tópica de un par de gotas en frente, sienes, plantas de los pies y parte posterior del cuello, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Temperatura corporal fría",
+      "productos": [
+        "AromaTouch",
+        "Pimienta negra",
+        "Canela"
+      ],
+      "aplicacion": "Aplicación en la zona del pecho, plantas de los pies e interior de las muñecas, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Tendinitis",
+      "productos": [
+        "Limoncillo",
+        "Cúrcuma",
+        "Mejorana"
+      ],
+      "aplicacion": "Masaje tópico sobre las áreas afectadas de cuatro a cinco veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Tiña inguinal",
+      "productos": [
+        "Melaleuca",
+        "Tomillo",
+        "Pachuli"
+      ],
+      "aplicacion": "Aplicación tópica en las zonas afectadas, según necesidad, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Tos",
+      "productos": [
+        "Breathe o Easy Air",
+        "Limón",
+        "Romero"
+      ],
+      "aplicacion": "Aplicación tópica en las áreas afectadas, según necesidad, y en la parte posterior del cuello, debajo de la nariz, en el puente de la nariz o en el pecho; añade difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Tracto urinario",
+      "productos": [
+        "Albahaca",
+        "Purify",
+        "Limoncillo"
+      ],
+      "aplicacion": "Masaje con unas gotas sobre los riñones y las plantas de los pies, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Trastorno por atracón",
+      "productos": [
+        "Slim and Sassy",
+        "Canela",
+        "Console"
+      ],
+      "aplicacion": "Aplicación tópica en el estómago, ingestión, o difusión e inhalación, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Trastorno de estrés postraumático",
+      "productos": [
+        "Madera de Cedro",
+        "Peace",
+        "Melissa"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, parte posterior del cuello, pecho y plantas de los pies, según necesidad, o difusión e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Trauma emocional",
+      "productos": [
+        "Forgive",
+        "Incienso",
+        "Peace"
+      ],
+      "aplicacion": "Aplicación tópica en frente, sienes, nuca y pecho, o difusión en el aire e inhalación.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Úlceras",
+      "productos": [
+        "Zendocrine",
+        "Incienso",
+        "Gaultería"
+      ],
+      "aplicacion": "Ingestión diaria de unas gotas y aplicación tópica en el abdomen.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Úlceras en la boca",
+      "productos": [
+        "On Guard",
+        "Clavo",
+        "Mirra"
+      ],
+      "aplicacion": "Gárgaras con unas gotas mezcladas con agua varias veces al día, aplicación tópica en las encías o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Uña encarnada",
+      "productos": [
+        "Ylang Ylang",
+        "DDR Prime",
+        "Melaleuca"
+      ],
+      "aplicacion": "Aplicación tópica en la uña afectada, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Uñas quebradizas",
+      "productos": [
+        "Arborvitae",
+        "Incienso",
+        "Mirra"
+      ],
+      "aplicacion": "Aplicación de un par de gotas tópicamente en el lecho de la uña una vez al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Urticaria",
+      "productos": [
+        "Melaleuca",
+        "Incienso",
+        "Menta"
+      ],
+      "aplicacion": "Aplicación de una o dos gotas tópicamente en el área afectada, o ingestión, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Varicela",
+      "productos": [
+        "DDR Prime",
+        "Tomillo",
+        "Melaleuca"
+      ],
+      "aplicacion": "Dilución de con un aceite portador y frotar ligeramente sobre las manchas un par de veces al día, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Venas varicosas",
+      "productos": [
+        "Ciprés",
+        "Helicriso",
+        "Abeto siberiano"
+      ],
+      "aplicacion": "Masaje con unas gotas en el área afectada varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Vesícula biliar",
+      "productos": [
+        "Zendocrine",
+        "Geranio",
+        "Slim and Sassy"
+      ],
+      "aplicacion": "Aplicación tópica sobre la vesícula biliar varias veces al día, o ingestión.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Verrugas genitales",
+      "productos": [
+        "Arborvitae",
+        "Incienso",
+        "Tomillo"
+      ],
+      "aplicacion": "Dilución de fuertemente con un aceite portador y aplicación tópica en el área afectada, o ingestión, un par de veces al día.",
+      "advertencia": "Evitar aplicar aceites sobre mucosas y consultar con un profesional de salud."
+    },
+    {
+      "condicion": "Verrugas",
+      "productos": [
+        "Orégano",
+        "Incienso",
+        "Arborvitae"
+      ],
+      "aplicacion": "Aplicación directa varias veces al día hasta que la verruga desaparezca.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Verrugas plantares",
+      "productos": [
+        "DDR Prime",
+        "Purify",
+        "Orégano"
+      ],
+      "aplicacion": "Aplicación de un par de gotas tópicamente en la verruga varias veces al día.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Visión borrosa",
+      "productos": [
+        "DDR Prime",
+        "Limoncillo",
+        "Helicriso"
+      ],
+      "aplicacion": "Aplicación en frente, sienes, base del cráneo y detrás de las orejas.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Vómito",
+      "productos": [
+        "DigestZen",
+        "Menta",
+        "Jengibre"
+      ],
+      "aplicacion": "Ingestión de unas gotas y difusión en el aire, así como aplicación tópica en el estómago, según necesidad.",
+      "advertencia": null
+    },
+    {
+      "condicion": "Voz ronca",
+      "productos": [
+        "Limón",
+        "Canela",
+        "Incienso"
+      ],
+      "aplicacion": "Ingestión de unas gotas, según necesidad.",
+      "advertencia": null
+    }
+  ]
+}
