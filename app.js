@@ -34,6 +34,7 @@
           item: f,
           condicionN: normalize(f.condicion),
           productosN: normalize(f.productos.join(" ")),
+          contextoN: normalize(f.contextoClinico || ""),
         }));
       });
   }
@@ -53,6 +54,7 @@
     for (const f of DATA._fichasNorm) {
       let s = scoreMatch(f.condicionN, q);
       if (s === null && f.productosN.includes(q)) s = 3;
+      if (s === null && f.contextoN.includes(q)) s = 4;
       if (s !== null) condMatches.push({ item: f.item, score: s });
     }
 
@@ -84,6 +86,10 @@
     if (f.advertencia) {
       warnEl.textContent = f.advertencia;
       warnEl.hidden = false;
+    }
+    if (f.contextoClinico) {
+      node.querySelector(".contexto-clinico").hidden = false;
+      node.querySelector(".contexto-texto").textContent = f.contextoClinico;
     }
     return node;
   }

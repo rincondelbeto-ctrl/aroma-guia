@@ -167,6 +167,24 @@ main {
   content: "⚠ ";
 }
 
+.contexto-clinico {
+  margin-top: 0.6rem;
+  padding-top: 0.6rem;
+  border-top: 1px dashed var(--border);
+}
+
+.contexto-texto {
+  margin: 0;
+  line-height: 1.45;
+}
+
+.contexto-nota {
+  margin: 0.35rem 0 0;
+  font-size: 0.74rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
 .empty, .landing {
   text-align: center;
   color: var(--muted);

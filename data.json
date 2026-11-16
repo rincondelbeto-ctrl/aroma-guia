@@ -518,7 +518,8 @@
         "Hoja de laurel"
       ],
       "aplicacion": "Aplicación tópica en la frente, sienes, base del cráneo y detrás de las orejas, o difusión en el aire e inhalación.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Puede asociarse a estados de ansiedad social o baja autoestima persistente."
     },
     {
       "condicion": "Conmoción cerebral",
@@ -568,7 +569,8 @@
         "Mandarina verde"
       ],
       "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de los oídos, o ingestión, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Corresponde al Trastorno neurocognitivo mayor."
     },
     {
       "condicion": "Depresión",
@@ -578,7 +580,8 @@
         "Incienso"
       ],
       "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de las orejas, o difusión en el aire e inhalación, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia frecuentemente con el Trastorno depresivo mayor o el Trastorno depresivo persistente (distimia)."
     },
     {
       "condicion": "Dermatitis del pañal",
@@ -698,7 +701,8 @@
         "Bergamota"
       ],
       "aplicacion": "Aplicación en plantas de los pies, pecho o sienes, o difusión e inhalación, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Corresponde al Trastorno bipolar I o II."
     },
     {
       "condicion": "Disentería",
@@ -748,7 +752,8 @@
         "Vetiver"
       ],
       "aplicacion": "Aplicación en frente, sienes, parte posterior del cuello y pecho, según necesidad, o difusión e inhalación.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con el Trastorno específico del aprendizaje; puede coexistir con TDAH."
     },
     {
       "condicion": "Disfunción eréctil",
@@ -938,7 +943,8 @@
         "Purify"
       ],
       "aplicacion": "Aplicación en pecho, sienes y plantas de los pies todos los días, o ingestión de unas gotas, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con el Trastorno por consumo de sustancias."
     },
     {
       "condicion": "Encías con sangrado",
@@ -1088,7 +1094,8 @@
         "Citrus Bliss"
       ],
       "aplicacion": "Aplicación tópica en frente, sienes, nuca y plantas de los pies, o difusión e inhalación, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Puede asociarse a cuadros depresivos o de ansiedad generalizada."
     },
     {
       "condicion": "Fatiga nerviosa",
@@ -1098,7 +1105,8 @@
         "Mandarina"
       ],
       "aplicacion": "Difusión e inhalación o aplicación tópica en sienes, detrás de los oídos y parte posterior del cuello, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia frecuentemente con el Trastorno de ansiedad generalizada o estados de estrés crónico."
     },
     {
       "condicion": "Fiebre",
@@ -1358,7 +1366,8 @@
         "Vetiver"
       ],
       "aplicacion": "Aplicación tópica y masaje en las zonas afectadas o difusión e inhalación.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia frecuentemente con el TDAH (Trastorno por déficit de atención con hiperactividad)."
     },
     {
       "condicion": "Hipersomnia",
@@ -1368,7 +1377,8 @@
         "Limón"
       ],
       "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación; también ingestión, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con el Trastorno de hipersomnia, dentro de los trastornos del sueño-vigilia."
     },
     {
       "condicion": "Hipertiroidismo",
@@ -1498,7 +1508,8 @@
         "Serenity"
       ],
       "aplicacion": "Difusión e inhalación o aplicación tópica en plantas de los pies, espalda y parte posterior del cuello, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia frecuentemente con el Trastorno de ansiedad generalizada."
     },
     {
       "condicion": "Insomnio",
@@ -1508,7 +1519,8 @@
         "Serenity"
       ],
       "aplicacion": "Aplicación en frente, sienes, espalda, nuca y pecho, ingestión de varias gotas, o difusión e inhalación.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con el Trastorno de insomnio, dentro de los trastornos del sueño-vigilia."
     },
     {
       "condicion": "Ira",
@@ -1518,7 +1530,8 @@
         "Forgive"
       ],
       "aplicacion": "Aplicación tópica o difusión e inhalación, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Puede asociarse al Trastorno explosivo intermitente cuando es recurrente y desproporcionada; en la mayoría de los casos es un estado emocional no patológico."
     },
     {
       "condicion": "Intolerancia a la lactosa",
@@ -1568,7 +1581,8 @@
         "InTune u OnTask"
       ],
       "aplicacion": "Aplicación tópica en frente, sienes, base del cráneo y detrás de las orejas, o difusión e inhalación, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Puede asociarse a dificultades atencionales o a cuadros de ansiedad/estrés."
     },
     {
       "condicion": "Laringitis",
@@ -2168,7 +2182,8 @@
         "Nardo"
       ],
       "aplicacion": "Aplicación tópica en plantas de los pies y detrás del cuello, o difusión e inhalación, según necesidad. La abstinencia puede requerir supervisión médica.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con los criterios de abstinencia dentro del Trastorno por consumo de sustancias."
     },
     {
       "condicion": "Sinusitis",
@@ -2228,7 +2243,8 @@
         "Peace"
       ],
       "aplicacion": "Difusión e inhalación o aplicación tópica de un par de gotas en frente, sienes, plantas de los pies y parte posterior del cuello, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con los Trastornos de ansiedad y las fobias específicas."
     },
     {
       "condicion": "Temperatura corporal fría",
@@ -2288,7 +2304,8 @@
         "Console"
       ],
       "aplicacion": "Aplicación tópica en el estómago, ingestión, o difusión e inhalación, según necesidad.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Corresponde al Trastorno por atracón (Binge Eating Disorder) como categoría diagnóstica propia del DSM-5."
     },
     {
       "condicion": "Trastorno de estrés postraumático",
@@ -2298,7 +2315,8 @@
         "Melissa"
       ],
       "aplicacion": "Aplicación en frente, sienes, parte posterior del cuello, pecho y plantas de los pies, según necesidad, o difusión e inhalación.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Corresponde al TEPT como categoría diagnóstica propia del DSM-5."
     },
     {
       "condicion": "Trauma emocional",
@@ -2308,7 +2326,8 @@
         "Peace"
       ],
       "aplicacion": "Aplicación tópica en frente, sienes, nuca y pecho, o difusión en el aire e inhalación.",
-      "advertencia": null
+      "advertencia": null,
+      "contextoClinico": "Se asocia con el Trastorno de estrés postraumático o el Trastorno de estrés agudo."
     },
     {
       "condicion": "Úlceras",
